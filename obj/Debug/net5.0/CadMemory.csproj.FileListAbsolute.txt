@@ -1,0 +1,16 @@
+C:\Users\maria eugenia\Documents\workspace\BootCampLocaliza\CadMemory\obj\Debug\net5.0\CadMemory.csprojAssemblyReference.cache
+C:\Users\maria eugenia\Documents\workspace\BootCampLocaliza\CadMemory\obj\Debug\net5.0\CadMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria eugenia\Documents\workspace\BootCampLocaliza\CadMemory\obj\Debug\net5.0\CadMemory.AssemblyInfoInputs.cache
+C:\Users\maria eugenia\Documents\workspace\BootCampLocaliza\CadMemory\obj\Debug\net5.0\CadMemory.AssemblyInfo.cs
+C:\Users\maria eugenia\Documents\workspace\BootCampLocaliza\CadMemory\obj\Debug\net5.0\CadMemory.csproj.CoreCompileInputs.cache
+C:\Users\maria eugenia\Documents\workspace\BootCampLocaliza\CadMemory\bin\Debug\net5.0\CadMemory.exe
+C:\Users\maria eugenia\Documents\workspace\BootCampLocaliza\CadMemory\bin\Debug\net5.0\CadMemory.deps.json
+C:\Users\maria eugenia\Documents\workspace\BootCampLocaliza\CadMemory\bin\Debug\net5.0\CadMemory.runtimeconfig.json
+C:\Users\maria eugenia\Documents\workspace\BootCampLocaliza\CadMemory\bin\Debug\net5.0\CadMemory.runtimeconfig.dev.json
+C:\Users\maria eugenia\Documents\workspace\BootCampLocaliza\CadMemory\bin\Debug\net5.0\CadMemory.dll
+C:\Users\maria eugenia\Documents\workspace\BootCampLocaliza\CadMemory\bin\Debug\net5.0\ref\CadMemory.dll
+C:\Users\maria eugenia\Documents\workspace\BootCampLocaliza\CadMemory\bin\Debug\net5.0\CadMemory.pdb
+C:\Users\maria eugenia\Documents\workspace\BootCampLocaliza\CadMemory\obj\Debug\net5.0\CadMemory.dll
+C:\Users\maria eugenia\Documents\workspace\BootCampLocaliza\CadMemory\obj\Debug\net5.0\ref\CadMemory.dll
+C:\Users\maria eugenia\Documents\workspace\BootCampLocaliza\CadMemory\obj\Debug\net5.0\CadMemory.pdb
+C:\Users\maria eugenia\Documents\workspace\BootCampLocaliza\CadMemory\obj\Debug\net5.0\CadMemory.genruntimeconfig.cache
